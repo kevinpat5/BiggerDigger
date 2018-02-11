@@ -38,6 +38,10 @@ All I can say is, try ANY TEST you want:
 
 You will find NO malicious code because there isn't any.
 
+SHA-256: 5f4ac62a454721856d4016c58d8959887a79c96570540ac3084938a6407f52f4
+
+VirusTotal Scan Result (0/67): https://www.virustotal.com/#/file/5f4ac62a454721856d4016c58d8959887a79c96570540ac3084938a6407f52f4/detection
+
 The only outgoing connections will be:
 1. To WhatToMine.com for fetching optimum mining data.
 2. To OpenExchangeRates.org for fetching currency rates.
