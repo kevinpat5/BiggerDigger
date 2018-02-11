@@ -4,6 +4,8 @@ Smart Crypto Mining Automator
 Greetings everyone!
 I have developed a Windows cryptomining helper application for my own needs and I decided to share it for free. It helped me, so if other people find it useful too, I would like the feedback.
 
+![Application Screenshot](https://raw.githubusercontent.com/kevinpat5/BiggerDigger/master/BiggerDigger.png)
+
 Main features:
 --------------
 1. BiggerDigger IS NOT A MINER, but a mining coordinator. It can work in 2 modes:
