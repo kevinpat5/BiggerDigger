@@ -1,131 +1,66 @@
-
 # USAGE:
-
 # CoinName | Miner_Executable_Path | Miner_Parameters | Pool_Web_Page_URL | Wallet_App_Path
-
 # All fields except the first one are optional.
-
 #
-
 # EXAMPLES:
-
 # Crowdcoin | C:\Miners\ccminer\ccminer-x64.exe | -a neoscrypt -o stratum+tcp://ENTER_POOL_ADDRESS_HERE:ENTER_POOL_PORT_HERE -u ENTER_YOUR_PUBLIC_ADDRESS_HERE.ENTER_WORKER_NAME_HERE -p c=CRC | ENTER_POOL_URL_HERE | C:\Coins\CrowdCoin\Wallet\Crowdcoin_win64_1_1_0.exe
-
 # Nicehash-NeoScrypt | C:\Miners\ccminer\ccminer-x64.exe | -a neoscrypt -o stratum+tcp://neoscrypt.eu.nicehash.com:3341 -u ENTER_YOUR_PUBLIC_ADDRESS_HERE.ENTER_WORKER_NAME_HERE -p x
-
 # Vivo | C:\Miners\ccminer\ccminer-x64.exe | -a neoscrypt -o stratum+tcp://ENTER_POOL_ADDRESS_HERE:ENTER_POOL_PORT_HERE -u ENTER_YOUR_PUBLIC_ADDRESS_HERE.ENTER_WORKER_NAME_HERE | ENTER_POOL_URL_HERE | C:\Coins\Vivo\WalletApp\vivo-qt.exe
 
-
-
 Altcommunity | 
-
 BitcoinGold | 
-
 Bulwark | 
-
 Bytecoin | 
-
 Crowdcoin | 
-
 Decred | 
-
 DGB-Groestl | 
-
 DigitalNote | 
-
 Dinastycoin | 
-
 Electroneum | 
-
 Ellaism | 
-
 Ethereum | 
-
 EthereumClassic | 
-
 Expanse | 
-
 Feathercoin | 
-
 GoByte | 
-
 GroestlCoin | 
-
 Halcyon | 
-
 Hush | 
-
 Innova | 
-
 Karbo | 
-
 Komodo | 
-
 LBRY | 
-
 Metaverse | 
-
 Monacoin | 
-
 Monero | 
-
 Musicoin | 
-
 Myriad-Groestl | 
-
 Nicehash-Blake (14r) | 
-
 Nicehash-Blake (2b) | 
-
 Nicehash-CryptoNight | 
-
 Nicehash-Equihash | 
-
 Nicehash-Ethash | 
-
 Nicehash-LBRY | 
-
 Nicehash-Lyra2REv2 | 
-
 Nicehash-NeoScrypt | 
 Nicehash-NIST5 | 
-
 Nicehash-Pascal | 
-
 Nicehash-Skunkhash | 
-
 Nicehash-X11Gost | 
-
 Orbitcoin | 
-
 Pascalcoin | 
-
 PascalLite | 
-
 Phoenixcoin | 
-
 Pirl | 
-
 Sia | 
-
 Sibcoin | 
-
 Sumokoin | 
-
 Trezarcoin | 
-
 Ubiq | 
-
 Verge-Groestl | 
-
 Verge-Lyra2REv2 | 
-
 Vertcoin | 
-
 Vivo | 
-
 Zcash |
- 
 Zclassic | 
-
 Zencash | 
