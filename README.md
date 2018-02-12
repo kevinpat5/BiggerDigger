@@ -43,6 +43,7 @@ You will find NO malicious code because there isn't any.
 SHA-256: 51a85a323afddcc022b6ea475b9dfd74b6ca32521c56d58850773ba2c0118431
 
 VirusTotal Scan Result (1/67): https://www.virustotal.com/#/file/51a85a323afddcc022b6ea475b9dfd74b6ca32521c56d58850773ba2c0118431/detection
+
 (For some reason a scanner named "Cylance" raised a false positive. Can't really tell why, I only made minor GUI changes)
 
 The only outgoing connections will be:
