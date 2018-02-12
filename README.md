@@ -40,9 +40,10 @@ All I can say is, try ANY TEST you want:
 
 You will find NO malicious code because there isn't any.
 
-SHA-256: 5f4ac62a454721856d4016c58d8959887a79c96570540ac3084938a6407f52f4
+SHA-256: 51a85a323afddcc022b6ea475b9dfd74b6ca32521c56d58850773ba2c0118431
 
-VirusTotal Scan Result (0/67): https://www.virustotal.com/#/file/5f4ac62a454721856d4016c58d8959887a79c96570540ac3084938a6407f52f4/detection
+VirusTotal Scan Result (1/67): https://www.virustotal.com/#/file/51a85a323afddcc022b6ea475b9dfd74b6ca32521c56d58850773ba2c0118431/detection
+(For some reason a scanner named "Cylance" raised a false positive. Can't really tell why, I only made minor GUI changes)
 
 The only outgoing connections will be:
 1. To WhatToMine.com for fetching optimum mining data.
