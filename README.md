@@ -64,6 +64,5 @@ I already have a lot of ideas, like remote management, event notifications, etc.
 
 There are NO DEV FEES, so any tips are welcome:
 
-BTC: 17kEoWmbFyhpCwmSSKcFDdikAdBFgQPMpU
-
-ETH: 0xAC7C8Ea339ac1A6ea7Ca82910EeAa4d48308684a
+- BTC: 17kEoWmbFyhpCwmSSKcFDdikAdBFgQPMpU
+- ETH: 0xAC7C8Ea339ac1A6ea7Ca82910EeAa4d48308684a
