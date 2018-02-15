@@ -31,7 +31,7 @@ DISCLAIMER:
 I made this tool for my own use but I'd be more than happy if it could help others too.
 I know that the fact it is not open source will discourage many people from trying it.
 
-All I can say is, try ANY TEST you want:
+This app is 100% safe, you can try ANY TEST you want:
 
 1. Disassemble it (it's written in C#; and .NET apps are pretty easy to have a look inside)
 2. SandBox it and check it
