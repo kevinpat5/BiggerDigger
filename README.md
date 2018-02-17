@@ -43,11 +43,11 @@ The only outgoing connections will be:
 2. To OpenExchangeRates.org for fetching currency rates.
 3. Whatever connections your preferred external miners will make.
 
-Executable SHA-256: 69cc9e97fe1f3ee99d291168a1da5a943f602d619e46e95b98cbab037c62a30e
+Executable SHA-256: f9d5fbaf0d47ad36e37bf8a9277f9f6a3bf0d92a866efe21ad80269f18423292
 
 VirusTotal evaluation (0/67):
 
-https://www.virustotal.com/#/file/69cc9e97fe1f3ee99d291168a1da5a943f602d619e46e95b98cbab037c62a30e/detection
+https://www.virustotal.com/#/file/f9d5fbaf0d47ad36e37bf8a9277f9f6a3bf0d92a866efe21ad80269f18423292/detection
 
 HOW TO USE IT:
 --------------
